@@ -14,6 +14,7 @@ var PRECACHE_URLS = [
   'images/hello-icon-256.png',
   'images/hello-icon-512.png',
   'images/Cardinal.jpg',
+  'images/seagull.jpg'
   'favicon.ico',
   'sw.js'
   ];
